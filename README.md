@@ -36,10 +36,17 @@ A comprehensive collection of Python notebooks covering essential concepts and t
 
 ## ⚙️ Requirements
 
-Install the required dependencies using:
+To run the notebooks, ensure that Jupyter Notebook and the necessary packages are installed. You can install them using:
 
 ```bash
-pip install -r requirements.txt
+# Launch Jupyter Notebook if already installed
+jupyter notebook
+```
+If Jupyter is not installed, use:
+
+```bash
+# Install Jupyter Notebook
+pip install jupyter
 ```
 
 ## 🚀 Getting Started
