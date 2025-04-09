@@ -83,13 +83,3 @@ The datasets used in the projects are sourced from open datasets such as MNIST, 
 
 ---
 
-## 📩 Contact
-
-For queries or collaborations, feel free to reach out:
-
-- **GitHub:** [Adithya-5369](https://github.com/Adithya-5369)
-- **Portfolio:** [adithya369.onrender.com](https://adithya369.onrender.com)
-
----
-
-⭐️ If you found this repository helpful, give it a star and follow for future updates!
